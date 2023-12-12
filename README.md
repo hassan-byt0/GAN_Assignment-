@@ -1,1 +1,1 @@
-# IE643_GAN_Assignment-
+# GAN_Assignment-
